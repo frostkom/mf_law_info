@@ -3,7 +3,7 @@
 Plugin Name: MF Law Info
 Plugin URI: 
 Description: 
-Version: 4.9.26
+Version: 4.9.27
 Author: Martin Fors
 Author URI: http://martinfors.se
 Text Domain: lang_law_info

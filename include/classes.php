@@ -845,7 +845,7 @@ class mf_law_info
 					break;
 
 					case 'responsibility':
-						$arr_data = $obj_law->get_responsibilities_for_select();
+						$arr_data = $obj_law->get_responsibilities_for_select(array('list_id' => $obj_law->list_id));
 
 						if(count($arr_data) > 0)
 						{
