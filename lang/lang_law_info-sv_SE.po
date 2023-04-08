@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-04 09:34+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martin Fors\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: sv_SE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+msgid "Comply with requirements"
+msgstr "Kvar att kvittera"
+
+msgid "...and %d more"
+msgstr "...och %d fler"
+
+msgid "Left for checking evaluation"
+msgstr "Kvar att kontrollera efterlevnad för"
+
+msgid "Compliance with"
+msgstr "Kvitterad"
+
+msgid "Rights for displaying red on not acknowledged"
+msgstr "Rättigheter för att visa rött på ej kvitterade"
+
+msgid "Laws"
+msgstr "Författningar"
+
+msgid "Add New"
+msgstr "Lägg till ny"
+
+msgid "Laws to Handle"
+msgstr "Författningar att hantera"
+
+msgid "Please, enter all required fields"
+msgstr "Var vänlig fyll i alla obligatoriska fält"
+
+msgid "The type is already in use, please edit that one instead"
+msgstr "Typen används redan, var vänlig redigera den istället"
+
+msgid "The info was updated"
+msgstr "Informationen uppdaterades"
+
+msgid "The info was created"
+msgstr "Informationen skapades"
+
+msgid "The receipt was saved"
+msgstr "Kvittensen sparades"
+
+msgid "There already seams to exist a saved receipt"
+msgstr "Det verkar redan finnas en kvittens"
+
+msgid "ID for law or list is missing"
+msgstr "ID för författning eller lista saknas"
+
+msgid "Requirements are now saved as met"
+msgstr "Kraven är nu sparade som uppfyllda"
+
+msgid "Requirements seams to have already been met"
+msgstr "Kraven verkar redan vara sparade som uppfyllda"
+
+msgid "Requirements are now saved as NOT met"
+msgstr "Kraven är nu sparade som EJ uppfyllda"
+
+msgid "Requirements seams to have already been NOT met"
+msgstr "Kraven verkar redan vara sparade som EJ uppfyllda"
+
+msgid "The information was deleted"
+msgstr "Informationen raderades"
+
+msgid "The information was created"
+msgstr "Informationen skapades"
+
+msgid "The information was updated"
+msgstr "Informationen uppdaterades"
+
+msgid "Effects on the company"
+msgstr "Så berörs verksamheten"
+
+msgid "Requirements met"
+msgstr "Så påverkas verksamheten av förändringarna"
+
+msgid "Referal to process"
+msgstr "Så uppfylls kraven, hänvisningar till rutin"
+
+msgid "Link"
+msgstr "Länk"
+
+msgid "Responsibility"
+msgstr "Ansvar"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "Receipt"
+msgstr "Kvitterad"
+
+msgid "Evaluation"
+msgstr "Utvärdering/Efterlevnad"
+
+msgid "Check Evaluation"
+msgstr "Kontrollera efterlevnad"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "Requirements are considered compliant"
+msgstr "Kraven bedöms uppfyllas"
+
+msgid "by"
+msgstr "av"
+
+msgid "Customer specific information"
+msgstr "Kundspecifik information"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "Add"
+msgstr "Lägg till"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Choose list to view info"
+msgstr "Välj en lista för att se info"
+
+msgid "Show"
+msgstr "Visa"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "%s has marked this as met"
+msgstr "%s har markerat denna som uppfylld"
+
+msgid "Undo! Requirements are no longer met for %s"
+msgstr "Ångra! Kraven uppfylls inte längre för %s"
+
+msgid "Acknowledge for %s"
+msgstr "Kvittera ändring/författning för %s"
+
+msgid "You do not have the rights to acknowledge this law"
+msgstr "Du har inte behörighet att kvittera denna författning"
+
+msgid "No receipt yet"
+msgstr "Det finns ingen kvittens ännu"
+
+msgid "%s has marked this as NOT met"
+msgstr "%s har markerat denna som EJ uppfylld"
+
+msgid "The requirements are met for %s"
+msgstr "Kraven uppfylls för %s"
+
+msgid "The requirements are NOT met for %s"
+msgstr "Kraven uppfylls INTE för %s"
+
+msgid "Requirements are not yet met"
+msgstr "Kraven uppfylls inte ännu"
+
+msgid "Reason"
+msgstr "Anledning"
+
+msgid "There is no information at this point"
+msgstr "Det finns ingen information ännu"
+
+msgid "Updated %s by %s"
+msgstr "Uppdaterad %s av %s"
+
+msgid "Created %s by %s"
+msgstr "Skapad %s av %s"
+
+msgid "Old versions"
+msgstr "Gamla versioner"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "Trash"
+msgstr "Papperskorg"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Recover"
+msgstr "Återställ"
+
