@@ -807,6 +807,10 @@ class mf_law_info
 					$i++;
 				}
 			break;
+
+			case 'responsibility':
+				$out = $this->get_key_value(array('law_id' => $data['law_id'], 'list_id' => $data['list_id'], 'key' => 'responsibility'));
+			break;
 		}
 
 		return $out;
